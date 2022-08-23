@@ -1,6 +1,6 @@
 # Quotes App
 
-Application for adding and readind the quotes
+Application for adding and reading the quotes
 
 
 ## Screenshots
